@@ -1,0 +1,3 @@
+{playerNumber} has alibi.
+The {playerNumber}th player has alibi.
+Player {playerNumber} could not be voted, he has alibi.

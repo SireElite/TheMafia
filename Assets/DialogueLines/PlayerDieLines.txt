@@ -1,0 +1,4 @@
+I was {role}.
+My role is {role}.
+Well, I was the {role}.
+I'm {role}.

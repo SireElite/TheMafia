@@ -1,0 +1,3 @@
+I vote player {playerNumber}.
+For me player number {playerNumber} is suspicious.
+I think {playerNumber} is mafia.
